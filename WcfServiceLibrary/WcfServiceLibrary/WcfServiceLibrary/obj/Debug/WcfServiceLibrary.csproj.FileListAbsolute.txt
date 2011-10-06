@@ -1,0 +1,12 @@
+C:\Users\Lap_Trinh\Documents\Visual Studio 2008\Projects\WcfServiceLibrary\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll.config
+C:\Users\Lap_Trinh\Documents\Visual Studio 2008\Projects\WcfServiceLibrary\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll
+C:\Users\Lap_Trinh\Documents\Visual Studio 2008\Projects\WcfServiceLibrary\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.pdb
+C:\Users\Lap_Trinh\Documents\Visual Studio 2008\Projects\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Lap_Trinh\Documents\Visual Studio 2008\Projects\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.dll
+C:\Users\Lap_Trinh\Documents\Visual Studio 2008\Projects\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.pdb
+C:\Documents and Settings\nhac vuong\Desktop\WcfServiceLibrary\WcfServiceLibrary\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll.config
+C:\Documents and Settings\nhac vuong\Desktop\WcfServiceLibrary\WcfServiceLibrary\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll
+C:\Documents and Settings\nhac vuong\Desktop\WcfServiceLibrary\WcfServiceLibrary\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.pdb
+C:\Documents and Settings\nhac vuong\Desktop\WcfServiceLibrary\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nhac vuong\Desktop\WcfServiceLibrary\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.dll
+C:\Documents and Settings\nhac vuong\Desktop\WcfServiceLibrary\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.pdb
