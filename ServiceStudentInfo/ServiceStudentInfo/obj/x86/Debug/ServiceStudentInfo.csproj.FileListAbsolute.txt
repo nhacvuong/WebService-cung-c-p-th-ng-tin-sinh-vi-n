@@ -1,0 +1,10 @@
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2010\Projects\ServiceStudentInfo\ServiceStudentInfo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2010\Projects\ServiceStudentInfo\ServiceStudentInfo\obj\x86\Debug\ServiceStudentInfo.Form1.resources
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2010\Projects\ServiceStudentInfo\ServiceStudentInfo\obj\x86\Debug\ServiceStudentInfo.Properties.Resources.resources
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2010\Projects\ServiceStudentInfo\ServiceStudentInfo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2010\Projects\ServiceStudentInfo\ServiceStudentInfo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2010\Projects\ServiceStudentInfo\ServiceStudentInfo\bin\Debug\ServiceStudentInfo.exe.config
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2010\Projects\ServiceStudentInfo\ServiceStudentInfo\bin\Debug\ServiceStudentInfo.exe
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2010\Projects\ServiceStudentInfo\ServiceStudentInfo\bin\Debug\ServiceStudentInfo.pdb
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2010\Projects\ServiceStudentInfo\ServiceStudentInfo\obj\x86\Debug\ServiceStudentInfo.exe
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2010\Projects\ServiceStudentInfo\ServiceStudentInfo\obj\x86\Debug\ServiceStudentInfo.pdb

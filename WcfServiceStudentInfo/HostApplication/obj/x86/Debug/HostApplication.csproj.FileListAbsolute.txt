@@ -1,0 +1,11 @@
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2010\Projects\WcfServiceStudentInfo\HostApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2010\Projects\WcfServiceStudentInfo\HostApplication\obj\x86\Debug\HostApplication.Properties.Resources.resources
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2010\Projects\WcfServiceStudentInfo\HostApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2010\Projects\WcfServiceStudentInfo\HostApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2010\Projects\WcfServiceStudentInfo\HostApplication\bin\Debug\HostApplication.exe
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2010\Projects\WcfServiceStudentInfo\HostApplication\bin\Debug\HostApplication.pdb
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2010\Projects\WcfServiceStudentInfo\HostApplication\bin\Debug\WcfServiceStudentInfo.dll
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2010\Projects\WcfServiceStudentInfo\HostApplication\bin\Debug\WcfServiceStudentInfo.pdb
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2010\Projects\WcfServiceStudentInfo\HostApplication\obj\x86\Debug\HostApplication.Form1.resources
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2010\Projects\WcfServiceStudentInfo\HostApplication\obj\x86\Debug\HostApplication.exe
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2010\Projects\WcfServiceStudentInfo\HostApplication\obj\x86\Debug\HostApplication.pdb
