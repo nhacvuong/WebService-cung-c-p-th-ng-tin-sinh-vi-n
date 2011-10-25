@@ -1,0 +1,27 @@
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2008\Projects\UsingLibrary\UsingLibrary\bin\Debug\UsingLibrary.exe.config
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2008\Projects\UsingLibrary\UsingLibrary\bin\Debug\UsingLibrary.exe
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2008\Projects\UsingLibrary\UsingLibrary\bin\Debug\UsingLibrary.pdb
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2008\Projects\UsingLibrary\UsingLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2008\Projects\UsingLibrary\UsingLibrary\obj\Debug\UsingLibrary.Form1.resources
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2008\Projects\UsingLibrary\UsingLibrary\obj\Debug\UsingLibrary.Properties.Resources.resources
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2008\Projects\UsingLibrary\UsingLibrary\obj\Debug\UsingLibrary.csproj.GenerateResource.Cache
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2008\Projects\UsingLibrary\UsingLibrary\obj\Debug\UsingLibrary.exe
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2008\Projects\UsingLibrary\UsingLibrary\obj\Debug\UsingLibrary.pdb
+C:\Documents and Settings\nhac vuong\Desktop\WcfServiceLibrary\WcfServiceLibrary\UsingLibrary\UsingLibrary\bin\Debug\UsingLibrary.exe.config
+C:\Documents and Settings\nhac vuong\Desktop\WcfServiceLibrary\WcfServiceLibrary\UsingLibrary\UsingLibrary\obj\Debug\UsingLibrary.exe
+C:\Documents and Settings\nhac vuong\Desktop\WcfServiceLibrary\WcfServiceLibrary\UsingLibrary\UsingLibrary\obj\Debug\UsingLibrary.pdb
+C:\Documents and Settings\nhac vuong\Desktop\WcfServiceLibrary\WcfServiceLibrary\UsingLibrary\UsingLibrary\bin\Debug\UsingLibrary.exe
+C:\Documents and Settings\nhac vuong\Desktop\WcfServiceLibrary\WcfServiceLibrary\UsingLibrary\UsingLibrary\bin\Debug\UsingLibrary.pdb
+C:\Documents and Settings\nhac vuong\Desktop\WcfServiceLibrary\WcfServiceLibrary\UsingLibrary\UsingLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nhac vuong\Desktop\WcfServiceLibrary\WcfServiceLibrary\UsingLibrary\UsingLibrary\obj\Debug\UsingLibrary.Form1.resources
+C:\Documents and Settings\nhac vuong\Desktop\WcfServiceLibrary\WcfServiceLibrary\UsingLibrary\UsingLibrary\obj\Debug\UsingLibrary.Properties.Resources.resources
+C:\Documents and Settings\nhac vuong\Desktop\WcfServiceLibrary\WcfServiceLibrary\UsingLibrary\UsingLibrary\obj\Debug\UsingLibrary.csproj.GenerateResource.Cache
+C:\Documents and Settings\nhac vuong\Desktop\TH_tuan5_TracingLogging\WcfServiceLibrary\WcfServiceLibrary\UsingLibrary\UsingLibrary\bin\Debug\UsingLibrary.exe.config
+C:\Documents and Settings\nhac vuong\Desktop\TH_tuan5_TracingLogging\WcfServiceLibrary\WcfServiceLibrary\UsingLibrary\UsingLibrary\obj\Debug\UsingLibrary.exe
+C:\Documents and Settings\nhac vuong\Desktop\TH_tuan5_TracingLogging\WcfServiceLibrary\WcfServiceLibrary\UsingLibrary\UsingLibrary\obj\Debug\UsingLibrary.pdb
+C:\Documents and Settings\nhac vuong\Desktop\TH_tuan5_TracingLogging\WcfServiceLibrary\WcfServiceLibrary\UsingLibrary\UsingLibrary\bin\Debug\UsingLibrary.exe
+C:\Documents and Settings\nhac vuong\Desktop\TH_tuan5_TracingLogging\WcfServiceLibrary\WcfServiceLibrary\UsingLibrary\UsingLibrary\bin\Debug\UsingLibrary.pdb
+C:\Documents and Settings\nhac vuong\Desktop\TH_tuan5_TracingLogging\WcfServiceLibrary\WcfServiceLibrary\UsingLibrary\UsingLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nhac vuong\Desktop\TH_tuan5_TracingLogging\WcfServiceLibrary\WcfServiceLibrary\UsingLibrary\UsingLibrary\obj\Debug\UsingLibrary.Form1.resources
+C:\Documents and Settings\nhac vuong\Desktop\TH_tuan5_TracingLogging\WcfServiceLibrary\WcfServiceLibrary\UsingLibrary\UsingLibrary\obj\Debug\UsingLibrary.Properties.Resources.resources
+C:\Documents and Settings\nhac vuong\Desktop\TH_tuan5_TracingLogging\WcfServiceLibrary\WcfServiceLibrary\UsingLibrary\UsingLibrary\obj\Debug\UsingLibrary.csproj.GenerateResource.Cache
