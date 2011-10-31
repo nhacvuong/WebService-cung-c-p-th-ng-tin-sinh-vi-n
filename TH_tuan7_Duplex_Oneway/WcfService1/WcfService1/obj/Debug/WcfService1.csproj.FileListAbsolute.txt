@@ -1,0 +1,5 @@
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2010\Projects\WcfService1\WcfService1\bin\WcfService1.dll
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2010\Projects\WcfService1\WcfService1\bin\WcfService1.pdb
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2010\Projects\WcfService1\WcfService1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2010\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2010\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.pdb

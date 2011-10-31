@@ -25,3 +25,6 @@ C:\Documents and Settings\nhac vuong\Desktop\TH_tuan5_TracingLogging\WcfServiceL
 C:\Documents and Settings\nhac vuong\Desktop\TH_tuan5_TracingLogging\WcfServiceLibrary\WcfServiceLibrary\UsingLibrary\UsingLibrary\obj\Debug\UsingLibrary.Form1.resources
 C:\Documents and Settings\nhac vuong\Desktop\TH_tuan5_TracingLogging\WcfServiceLibrary\WcfServiceLibrary\UsingLibrary\UsingLibrary\obj\Debug\UsingLibrary.Properties.Resources.resources
 C:\Documents and Settings\nhac vuong\Desktop\TH_tuan5_TracingLogging\WcfServiceLibrary\WcfServiceLibrary\UsingLibrary\UsingLibrary\obj\Debug\UsingLibrary.csproj.GenerateResource.Cache
+C:\Documents and Settings\nhac vuong\Do_an\TH_tuan6_Asynchronous\WcfServiceLibrary\WcfServiceLibrary\UsingLibrary\UsingLibrary\bin\Debug\UsingLibrary.exe.config
+C:\Documents and Settings\nhac vuong\Do_an\TH_tuan6_Asynchronous\WcfServiceLibrary\WcfServiceLibrary\UsingLibrary\UsingLibrary\obj\Debug\UsingLibrary.exe
+C:\Documents and Settings\nhac vuong\Do_an\TH_tuan6_Asynchronous\WcfServiceLibrary\WcfServiceLibrary\UsingLibrary\UsingLibrary\obj\Debug\UsingLibrary.pdb

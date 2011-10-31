@@ -45,3 +45,6 @@ C:\Documents and Settings\nhac vuong\Desktop\TH_tuan5_TracingLogging\WcfServiceL
 C:\Documents and Settings\nhac vuong\Desktop\TH_tuan5_TracingLogging\WcfServiceLibrary\WcfServiceLibrary\WcfServiceLibrary\WcfServiceLibrary\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Documents and Settings\nhac vuong\Desktop\TH_tuan5_TracingLogging\WcfServiceLibrary\WcfServiceLibrary\WcfServiceLibrary\WcfServiceLibrary\WindowsFormsApplication1\obj\Debug\GenerateResource-ResGen.read.1.tlog
 C:\Documents and Settings\nhac vuong\Desktop\TH_tuan5_TracingLogging\WcfServiceLibrary\WcfServiceLibrary\WcfServiceLibrary\WcfServiceLibrary\WindowsFormsApplication1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\nhac vuong\Do_an\TH_tuan6_Asynchronous\WcfServiceLibrary\WcfServiceLibrary\WcfServiceLibrary\WcfServiceLibrary\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Documents and Settings\nhac vuong\Do_an\TH_tuan6_Asynchronous\WcfServiceLibrary\WcfServiceLibrary\WcfServiceLibrary\WcfServiceLibrary\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\nhac vuong\Do_an\TH_tuan6_Asynchronous\WcfServiceLibrary\WcfServiceLibrary\WcfServiceLibrary\WcfServiceLibrary\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
