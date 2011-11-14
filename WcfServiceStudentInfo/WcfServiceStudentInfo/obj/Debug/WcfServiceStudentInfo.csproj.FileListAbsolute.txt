@@ -4,3 +4,9 @@ C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2010\Projects\Wc
 C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2010\Projects\WcfServiceStudentInfo\WcfServiceStudentInfo\obj\Debug\ResolveAssemblyReference.cache
 C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2010\Projects\WcfServiceStudentInfo\WcfServiceStudentInfo\obj\Debug\WcfServiceStudentInfo.dll
 C:\Documents and Settings\nhac vuong\My Documents\Visual Studio 2010\Projects\WcfServiceStudentInfo\WcfServiceStudentInfo\obj\Debug\WcfServiceStudentInfo.pdb
+C:\Documents and Settings\nhac vuong\Do_an\WcfServiceStudentInfo\WcfServiceStudentInfo\bin\Debug\WcfServiceStudentInfo.dll.config
+C:\Documents and Settings\nhac vuong\Do_an\WcfServiceStudentInfo\WcfServiceStudentInfo\bin\Debug\WcfServiceStudentInfo.dll
+C:\Documents and Settings\nhac vuong\Do_an\WcfServiceStudentInfo\WcfServiceStudentInfo\bin\Debug\WcfServiceStudentInfo.pdb
+C:\Documents and Settings\nhac vuong\Do_an\WcfServiceStudentInfo\WcfServiceStudentInfo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nhac vuong\Do_an\WcfServiceStudentInfo\WcfServiceStudentInfo\obj\Debug\WcfServiceStudentInfo.dll
+C:\Documents and Settings\nhac vuong\Do_an\WcfServiceStudentInfo\WcfServiceStudentInfo\obj\Debug\WcfServiceStudentInfo.pdb
